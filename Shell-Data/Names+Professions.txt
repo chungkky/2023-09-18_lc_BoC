@@ -1,0 +1,31 @@
+FamilyName, GivenName, profession
+Marriner, Neville, conductor
+Elliot, T.S., poet
+Watts, Helen, detective
+Smith, John, miller
+Shakespeare, William, playwright
+Wood, Janet, biologist
+Franklin, Ursula, scientist
+Pagh, Nancy, poet
+Bowman, Neil, baker
+Glenn, John, astronaut
+Smith, John, cobbler
+Shadbolt, Jack, painter 
+Pollock, Sharon, playwright
+Glaspell, Susan, playwright
+Spitz, Mark, swimmer
+Holmes, Sherlock, detective
+Winters, Jonathan, comedian
+Shakespeare, Joan, fictional sister
+Le Guin, Ursula, author
+Tudor, Elizabeth, queen of England
+Fox, Brian J., computer programmer 
+Overton, William, bishop of Lichfield
+Jackson, Mary, engineer
+Raintree, April, missing person
+Latham, Edward, commoner
+Cantwell-Smith, Brian, professor
+Davis, Natalie Zemon, historian
+Rosling, Hans, physician and statistician
+Smith, John, shoemaker
+Tudor, E., morris dancer
