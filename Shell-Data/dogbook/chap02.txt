@@ -1,0 +1,6 @@
+We are going to study police dog performance of drug identification.
+Gather the data carefully.  
+You will be working with ten policedog and their handlers. 
+Check with the authorities for permission to do the tests.
+Don't put the actual names of the dogs in the file name so it will be anonymous.
+Create file names using the pattern "policedog-01.dat", "policedog-02.dat", and so on.
